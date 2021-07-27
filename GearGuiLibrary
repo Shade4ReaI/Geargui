@@ -7,7 +7,7 @@ Type the player to recieve the gear and press the button is all thats needed
 script example-
 
 
-local lib = loadstring(game:HttpGet('https://github.com/Shade4ReaI/Geargui/edit/main/GearGuiLibrary'))()
+local lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Shade4ReaI/Geargui/main/GearGuiLibrary'))()
 lib.addGear('Jail', 82357101)
 
 
